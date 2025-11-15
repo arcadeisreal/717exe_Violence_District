@@ -3970,9 +3970,9 @@ BackgroundTransparency=1,
 Name="Drag",
 },{
 ac("ImageLabel",{
-Image=ab.Icon"move"[1],
-ImageRectOffset=ab.Icon"move"[2].ImageRectPosition,
-ImageRectSize=ab.Icon"move"[2].ImageRectSize,
+Image=ab.Icon"scan"[1],
+ImageRectOffset=ab.Icon"scan"[2].ImageRectPosition,
+ImageRectSize=ab.Icon"scan"[2].ImageRectSize,
 Size=UDim2.new(0,18,0,18),
 BackgroundTransparency=1,
 Position=UDim2.new(0.5,0,0.5,0),
